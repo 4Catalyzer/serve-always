@@ -1,2 +1,2 @@
 # serve-always
-serve a static file for all paths
+serve a static file for all paths. Based on https://github.com/expressjs/serve-index

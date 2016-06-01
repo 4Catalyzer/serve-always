@@ -1,0 +1,24 @@
+{
+  "name": "serve-always",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itajaja/serve-always.git"
+  },
+  "author": "Giacomo Tagliabue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itajaja/serve-always/issues"
+  },
+  "homepage": "https://github.com/itajaja/serve-always#readme",
+  "dependencies": {
+    "escape-html": "^1.0.3",
+    "parseurl": "^1.3.1",
+    "send": "^0.13.2"
+  }
+}
